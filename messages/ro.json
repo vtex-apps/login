@@ -5,7 +5,7 @@
   "store/loginOptions.title": "Alege o opțiune de autentificare",
   "store/loginOptions.emailVerification": "Primește codul de acces prin e-mail",
   "store/loginOptions.emailAndPassword": "Autentifică-te cu e-mailul și parola",
-  "store/loginOptions.oAuth": "Înregistrare cu",
+  "store/loginOptions.oAuth": "Conectează-te cu",
   "store/login.goBack": "Înapoi",
   "store/login.send": "Trimite",
   "store/login.create": "Creează",
