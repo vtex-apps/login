@@ -1,0 +1,24 @@
+package operators;
+//importing scanner class
+import java.util.Scanner;
+//working with arithmetic operators
+//+,-,*,%,/
+
+public class Operators {
+//declaring variables
+   static int f_num,s_num,sum,diff,product,rem;
+    
+    public static void main(String[] args) {
+        //creating scanner object
+        Scanner input= new Scanner(System.in);
+        //ask user to enter two numbers
+        System.out.println("Enter the first number");
+        //getting the first number
+        f_num=input.nextInt();
+        System.out.println("Enter the second number");
+        //getting the second number
+        s_num=input.nextInt();
+        
+    }
+    
+}
