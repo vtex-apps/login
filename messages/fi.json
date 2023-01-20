@@ -4,7 +4,7 @@
   "store/error.oauth.missingEmail": "Pahoittelut, emme saaneet sähköpostiasi. Tarkista käyttöoikeutesi tai ota yhteyttä asiasta vastaavaan yritykseen.",
   "store/loginOptions.title": "Valitse kirjautumisvaihtoehto",
   "store/loginOptions.emailVerification": "Kertakäyttöinen salasana sähköpostitse",
-  "store/loginOptions.emailAndPassword": "Kirjaudu sisään sähköpostitse ja salasanalla",
+  "store/loginOptions.emailAndPassword": "Kirjaudu sisään säaasaaajsdcdcnjsapostitse ja salasanalla",
   "store/loginOptions.oAuth": "Kirjaudu palvelulla",
   "store/login.goBack": "Palaa",
   "store/login.send": "Lähetä",
