@@ -204,7 +204,7 @@ export default ComponentName;
 "login-content > user-identifier": "user-identifier.{{InterfaceName}}",
 ```
 
-> ℹ️ _If the `store/plugins.json` file is not available, you should create it._
+> ℹ️ If the `store/plugins.json` file is not available, you should create it.
 
 > ⚠️ _Since the Login app behaves as if users were typing their emails, error messages like `The email is invalid` may appear even if the component is requesting other identifiers from users. This message, and others, can be edited in the Admin CMS._
 
