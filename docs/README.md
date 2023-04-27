@@ -107,7 +107,7 @@ By default, the email/password login asks two inputs from users:
 - Email (_user identifier_)
 - Password
 
-You can **set up the User Identifier Extension to allow other identifiers to be used in the Login form**, as long as they can be resolved to the user email in the background.
+You can set up the User Identifier Extension to allow other identifiers to be used in the Login form as long as they can be resolved to the user email in the background.
 
 For example: If your account stores the national identity document of each user, the email/password login could be changed to ask for the following two inputs:
 
