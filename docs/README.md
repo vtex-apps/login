@@ -195,7 +195,7 @@ export default ComponentName;
 },
 ```
 
-> ℹ️ _The interface name, which is represented in the example above as `{{InterfaceName}}` can be anything your want._ ℹ️ _In the example above, the component created in step 2 is represented by `{{ComponentName}}`._
+> ℹ️ The interface name, which is represented in the example above as `{{InterfaceName}}` can be anything your want. In the example above, the component created in step 2 is represented by `{{ComponentName}}`.
 
 4. In the `store/plugins.json` file, add the new interface (`user-identifier`) for the Login app:
 
