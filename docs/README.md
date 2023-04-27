@@ -120,7 +120,7 @@ The new extension app should be set up to receive the custom user identifier fro
 
 Below, you can find the instructions for running the User Identifier Extension in your store:
 
-> ⚠️ _Only enterprise clients can use this extension. You can check your account plan in your VTEX contract._
+> ⚠️ Only enterprise clients can use this extension. You can check your account plan in your VTEX contract.
 
 1. Make sure that the Login app is added as the extension app dependency and that the `store` builder is listed as one of its builders, as shown below:
 
