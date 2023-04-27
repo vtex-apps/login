@@ -138,7 +138,7 @@ Below, you can find the instructions for running the User Identifier Extension i
 
 2. [Develop a new component](https://vtex.io/docs/getting-started/desenvolva-componentes-usando-vtex-io-e-react/1) to replace the `email` input in the login form. This can be anything you want in its place, such as a file uploader or a simple text input which gets the national identity document.
 
-> ℹ️ _When developing the component, remember that it must know how to convert the custom identifier to an email. This should be done by adding a callback function that returns an email within the Login app in the `react/{{ComponentName}}.js` file. For example:_
+When developing the component, remember that it must know how to convert the custom identifier to an email. This should be done by adding a callback function that returns an email within the Login app in the `react/{{ComponentName}}.js` file. For example:
 
 ```js
 import { useState, useCallback, useEffect } from "react";
